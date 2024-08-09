@@ -28,7 +28,7 @@ I f you wanna run this application run
 In order to download all the requirement and run you are application 
 
 
-![HOW WOULD LOOK LIKE](adam.png)
+![HOW WOULD LOOK LIKE](plant.png)
 
 
 ## STREAMLIT 
