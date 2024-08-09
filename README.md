@@ -14,12 +14,12 @@ VIEEW YOU ARE APPLICATION
 
 ```
 
-##VIEW FULL
+## VIEW FULL
 
 To check the full tutorial please check out on [My blog](https://adamportifolio.netlify.app) 
 
 
-##REQUIREMENT
+## REQUIREMENT
 
 I f you wanna run this application run  
 ```
